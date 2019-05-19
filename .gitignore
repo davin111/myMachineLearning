@@ -1,5 +1,6 @@
 PyTorchStudy/CNN/data
 PyTorchStudy/RNN/data
+projects/KoreanArticlesClassification/CandidateModels
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
